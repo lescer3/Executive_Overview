@@ -1,3 +1,3 @@
 # Executive_Overview
 
-![Dashboard](file:///Users/lezelly/Downloads/Executive%20Overview%20(1).pdf)
+![Dashboard]('/Users/lezelly/Downloads/Executive Overview (1).pdf')
